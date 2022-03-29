@@ -2,10 +2,10 @@
 
 cd /home/ubuntu
 
-wget https://raw.githubusercontent.com/Dev699vn/PiMachineLearning/main/m1.sh
+wget https://raw.githubusercontent.com/zyzz696/quanml/main/m1.sh
     chmod +x /home/ubuntu/m1.sh
 
-wget https://raw.githubusercontent.com/Dev699vn/PiMachineLearning/main/auinstall.sh
+wget https://raw.githubusercontent.com/zyzz696/quanml/main/auinstall.sh
     chmod +x /home/ubuntu/auinstall.sh
 
     echo "installing" > /home/ubuntu/install.txt
